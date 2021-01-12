@@ -1,0 +1,41 @@
+
+
+.body_head {
+    display: flex;
+    align-items: center; 
+    justify-content: space-between;
+    height: 70px;
+}
+
+.subtitle {
+    font-family: poppins;
+    font-size: 22px;
+    font-weight: normal;
+    color: rgb(32, 32, 32);
+}
+
+.view { 
+    font-family: poppins;
+    color: rgb(62, 143, 250);
+    cursor: pointer;
+}
+
+
+.blocks {
+    display: flex;
+    align-items: center; 
+    justify-content: space-between; 
+    flex-wrap: wrap;
+    background: #f8f8f8;
+} 
+
+
+.block_element { 
+    width: 15.5%; 
+    height: 140px; 
+    margin: 10px 0; 
+    background: #fff; 
+    border-radius: 5px;
+    box-shadow: 0px 0px 3px 3px rgb(224, 224, 224);
+} 
+

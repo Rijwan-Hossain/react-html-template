@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+    background: #f8f8f8;
+}
+
+
+.align { 
+    align-self: stretch; 
+} 
+
+
+.s1 { 
+    width: 15%; 
+    background: #ffffff; 
+    padding-left: 50px; 
+} 
+
+
+.s2 { 
+    width: 85%; 
+    /* background: #f8f8f8;  */
+} 
+

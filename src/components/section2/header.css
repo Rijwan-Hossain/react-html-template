@@ -1,0 +1,23 @@
+
+.header {
+    height: 100px;
+    border-bottom: solid 2px rgb(100, 100, 100);
+    padding: 0 50px; 
+    display: flex; 
+    align-items: center; 
+    justify-content: space-between;
+} 
+
+
+.name {
+    font-family: poppins;
+    font-weight: normal;
+    color: rgb(30, 30, 30);
+    font-size: 28px;
+}
+
+
+.header_avatar { 
+    height: 80px; 
+    border-radius: 50%;
+} 
