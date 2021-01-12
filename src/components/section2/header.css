@@ -1,6 +1,6 @@
 
 .header {
-    height: 100px;
+    height: 50px;
     border-bottom: solid 2px rgb(100, 100, 100);
     padding: 0 50px; 
     display: flex; 
@@ -11,13 +11,13 @@
 
 .name {
     font-family: poppins;
-    font-weight: normal;
+    font-weight: 300;
     color: rgb(30, 30, 30);
-    font-size: 28px;
+    font-size: 24px;
 }
 
 
 .header_avatar { 
-    height: 80px; 
+    height: 40px; 
     border-radius: 50%;
 } 

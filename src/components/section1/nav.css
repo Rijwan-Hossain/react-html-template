@@ -11,6 +11,7 @@
     margin: 15px 0px; 
     cursor: pointer; 
     font-family: poppins;
+    font-weight: 300;
 } 
 
 .ul_li:hover { 

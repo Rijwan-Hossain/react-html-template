@@ -9,13 +9,14 @@
 
 .subtitle {
     font-family: poppins;
-    font-size: 22px;
-    font-weight: normal;
+    font-size: 20px;
+    font-weight: 300;
     color: rgb(32, 32, 32);
 }
 
 .view { 
     font-family: poppins;
+    font-weight: 300;
     color: rgb(62, 143, 250);
     cursor: pointer;
 }
